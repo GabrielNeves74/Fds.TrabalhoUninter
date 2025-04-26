@@ -1,0 +1,21 @@
+body{background-color: bisque;}
+
+h1{color:midnightblue; 
+   font-size: 30px;
+   text-align: center;
+}
+
+p{font-size: 20px}
+
+ul{line-height: 1.5;}
+
+.Lista{border-radius: 25px}
+
+caption{padding: 5px;
+        font-size: 18px;}
+table{border: 3px solid black}
+th{border: 3px solid black}
+td{text-align: center;
+   border: 3px solid black}
+
+a:hover{background-color: lightblue}
